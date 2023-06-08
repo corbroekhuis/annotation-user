@@ -1,2 +1,2 @@
-my.compiler.processing.MyProcessor
-my.compiler.processing.HandlerProcessor
+my.compiler.processor.HelloWorldProcessor
+my.compiler.processor.CallCloudServiceProcessor
